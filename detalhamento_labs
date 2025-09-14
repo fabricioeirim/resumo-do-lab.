@@ -1,0 +1,5 @@
+- Criação de estruturas ciompuatcionais na nuvem da azure
+  1) Na criação de uma maquina virtual a escolha do sistema operacional influencia muito na performance e preço do que está em uso.
+  2) Utilizando uma configuração equalizada de CPu e disco, podemos ter um ambiente adequado e einclusive toelrante a falhas.
+  3) esse ambienrte é escalaver de forma dinamica e dependendo da região, podemos obedecer lei e regras locais sem grade esforço.
+  4) Poder esclar o nivel de SLA de acordo com a nercessidade.
